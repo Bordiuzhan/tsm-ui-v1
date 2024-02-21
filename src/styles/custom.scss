@@ -1,0 +1,28 @@
+input:placeholder-shown {
+  text-overflow: ellipsis;
+}
+
+/* Search */
+.sidebar-link, .active > span {
+  color: $blue-500;
+}
+
+.width-300 {
+  width: 300px;
+}
+
+.min-width-90 {
+  min-width: 92px;
+}
+
+.focus:focus-within {
+  @include media-breakpoint-down(sm) {
+    width: 100%;
+  }
+}
+
+/* GearSvg */
+.scale:hover {
+  opacity: 0.9;
+  transform: scale(1.1);
+}

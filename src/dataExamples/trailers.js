@@ -1,0 +1,71 @@
+export const trailers = [{
+    "id": 6,
+    "model": "GDAN",
+    "active": 1,
+    "trailer_number": "53384",
+    "type": "Van",
+    "vehicle_id_number": "1GRAP0629KK158844",
+    "license_plate": "686324ST",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2023-03-31"
+}, {
+    "id": 8,
+    "model": "GDAN",
+    "active": 1,
+    "trailer_number": "53358",
+    "type": "Van",
+    "vehicle_id_number": "1GRAP0627KK158812",
+    "license_plate": "686366ST",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2023-03-31"
+}, {
+    "id": 9,
+    "model": "GDAN",
+    "active": 1,
+    "trailer_number": "2030",
+    "type": "R/M",
+    "vehicle_id_number": "1UYVS253XFU159402",
+    "license_plate": "816818ST",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2023-03-31"
+}, {
+    "id": 11,
+    "model": "GDAN",
+    "active": 1,
+    "trailer_number": "2938",
+    "type": "Van",
+    "vehicle_id_number": "1GR1P0628NK415318",
+    "license_plate": "828146ST",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2023-03-31"
+}, {
+    "id": 12,
+    "model": "VANGUARD",
+    "active": 1,
+    "trailer_number": "AS 203",
+    "type": "Van",
+    "vehicle_id_number": "5V8VA5320GM608694",
+    "license_plate": "878888ST",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2023-03-31"
+}, {
+    "id": 13,
+    "model": "GDAN",
+    "active": 1,
+    "trailer_number": "53345",
+    "type": "Van",
+    "vehicle_id_number": "1GRAP0627KK131450",
+    "license_plate": "648257ST",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2023-03-31"
+}, {
+    "id": 15,
+    "model": "GDAN",
+    "active": 0,
+    "trailer_number": "8143",
+    "type": "Van",
+    "vehicle_id_number": "1GRAA0627GK258143",
+    "license_plate": "878889ST",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2023-03-31"
+}]

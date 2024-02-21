@@ -1,0 +1,87 @@
+export const units = [{
+    "id": 5,
+    "model": "Freightliner",
+    "active": 0,
+    "pu_number": "5301",
+    "vehicle_id_number": "3AKJHHDR7MSME8205",
+    "trailer": {
+        "trailer_number": "53384"
+    },
+    "license_plate": "P1084892",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2027-03-31"
+}, {
+    "id": 6,
+    "model": "Kenworth",
+    "active": 1,
+    "pu_number": "405",
+    "vehicle_id_number": "1XKYDP9X3LJ387033",
+    "trailer": null,
+    "license_plate": "P1113141",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2027-03-31"
+}, {
+    "id": 7,
+    "model": "Freightliner",
+    "active": 1,
+    "pu_number": "5302",
+    "vehicle_id_number": "1FUJHHDR2MLME8303",
+    "trailer": {
+        "trailer_number": "2030"
+    },
+    "license_plate": "P1090133",
+    "license_plate_expiration": "2027-03-31",
+    "inspection_expiration": "2027-03-31"
+}, {
+    "id": 8,
+    "model": "Kenworth",
+    "active": 1,
+    "pu_number": "6165",
+    "vehicle_id_number": "1XKWD49X2NR490471",
+    "trailer": null,
+    "license_plate": "P1113142",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2027-03-31"
+}, {
+    "id": 9,
+    "model": "Freightliner",
+    "active": 1,
+    "pu_number": "5303",
+    "vehicle_id_number": "3AKJHHDR7NSMZ0346",
+    "trailer": null,
+    "license_plate": "P1113144",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2027-03-31"
+}, {
+    "id": 10,
+    "model": "Freightliner",
+    "active": 1,
+    "pu_number": "5305",
+    "vehicle_id_number": "3AKJHHDR3NSMZ0389",
+    "trailer": null,
+    "license_plate": "P1125875",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2027-03-31"
+}, {
+    "id": 12,
+    "model": "Kenworth",
+    "active": 1,
+    "pu_number": "5306",
+    "vehicle_id_number": "1XKWD49X1NR495550",
+    "trailer": {
+        "trailer_number": "AS 203"
+    },
+    "license_plate": "P1134067",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2027-03-31"
+}, {
+    "id": 14,
+    "model": "Kenworth",
+    "active": 1,
+    "pu_number": "5308",
+    "vehicle_id_number": "1XPXD49X8NR169745",
+    "trailer": null,
+    "license_plate": "P1153005",
+    "license_plate_expiration": "2023-03-31",
+    "inspection_expiration": "2027-03-31"
+}]
